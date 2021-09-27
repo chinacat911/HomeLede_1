@@ -19,8 +19,8 @@ on:
         required: true
         default: 'false'
   
-  schedule:
-    - cron: 0 7 * * *      
+#  schedule:
+#    - cron: 0 7 * * *      
 
 env:
   REPO_URL: https://github.com/xiaoqingfengATGH/HomeLede.git
